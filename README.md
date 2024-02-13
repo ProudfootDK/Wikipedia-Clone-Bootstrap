@@ -7,4 +7,4 @@ Wikipedia Self Bio Assignment\
 
 Site is hosted here: https://proudfootdk.github.io/Wikipedia-Clone-Bootstrap/
 
-//Paste Embedded Image of website here//
+![WebpageScreenshot.png](WebpageScreenshot.png)
