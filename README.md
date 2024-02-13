@@ -5,6 +5,6 @@
 Wikipedia Self Bio Assignment\
 02/12/2024</b>
 
-Site is hosted here:
+Site is hosted here: https://proudfootdk.github.io/Wikipedia-Clone-Bootstrap/
 
 //Paste Embedded Image of website here//

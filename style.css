@@ -18,3 +18,17 @@ h2 {
 p {
      font-family: sans-serif;
  }
+
+th {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 0.78rem;
+    color: #000000;
+}
+
+td {
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 0.78rem;
+    white-space:pre
+}
